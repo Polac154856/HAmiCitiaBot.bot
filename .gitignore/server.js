@@ -29,7 +29,7 @@ const listener = app.listen(process.env.PORT, function() {
 });
 
 client.setMaxListeners(90);
-client.login("NzA4OTY3NjI2NzYzOTI3NTUz.Xvcqcw.S6kIvfp1fpHMVeJZInsAMsC9SD4");
+client.login("NzA4OTY3NjI2NzYzOTI3NTUz.Xvw5ig._CLBgjVjD6LHTjNNL265dwiRIJk");
 
 
 client.on("ready", async message => {
